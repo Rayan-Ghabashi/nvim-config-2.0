@@ -130,7 +130,7 @@ _G.packer_plugins = {
     url = "https://github.com/neovim/nvim-lspconfig"
   },
   ["nvim-tree.lua"] = {
-    config = { "\27LJ\2\n能1\0\0\6\0\n\0\r6\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\b\0005\3\6\0005\4\4\0005\5\3\0=\5\5\4=\4\a\3=\3\t\2B\0\2\1K\0\1\0\rrenderer\1\0\0\nicons\1\0\0\tshow\1\0\0\1\0\4\bgit\2\tfile\2\vfolder\2\17folder_arrow\2\nsetup\14nvim-tree\frequire\0" },
+    config = { "\27LJ\2\n能1\0\0\6\0\n\0\r6\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\b\0005\3\6\0005\4\4\0005\5\3\0=\5\5\4=\4\a\3=\3\t\2B\0\2\1K\0\1\0\rrenderer\1\0\0\nicons\1\0\0\tshow\1\0\0\1\0\4\tfile\2\17folder_arrow\2\vfolder\2\bgit\2\nsetup\14nvim-tree\frequire\0" },
     loaded = true,
     path = "/home/rayan/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
     url = "https://github.com/nvim-tree/nvim-tree.lua"
@@ -196,7 +196,7 @@ try_loadstring("\27LJ\2\nO\0\0\3\0\4\0\a6\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\3\0B
 time([[Config for nvim-web-devicons]], false)
 -- Config for: nvim-tree.lua
 time([[Config for nvim-tree.lua]], true)
-try_loadstring("\27LJ\2\n能1\0\0\6\0\n\0\r6\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\b\0005\3\6\0005\4\4\0005\5\3\0=\5\5\4=\4\a\3=\3\t\2B\0\2\1K\0\1\0\rrenderer\1\0\0\nicons\1\0\0\tshow\1\0\0\1\0\4\bgit\2\tfile\2\vfolder\2\17folder_arrow\2\nsetup\14nvim-tree\frequire\0", "config", "nvim-tree.lua")
+try_loadstring("\27LJ\2\n能1\0\0\6\0\n\0\r6\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\b\0005\3\6\0005\4\4\0005\5\3\0=\5\5\4=\4\a\3=\3\t\2B\0\2\1K\0\1\0\rrenderer\1\0\0\nicons\1\0\0\tshow\1\0\0\1\0\4\tfile\2\17folder_arrow\2\vfolder\2\bgit\2\nsetup\14nvim-tree\frequire\0", "config", "nvim-tree.lua")
 time([[Config for nvim-tree.lua]], false)
 -- Config for: rose-pine
 time([[Config for rose-pine]], true)
